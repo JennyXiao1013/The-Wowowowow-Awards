@@ -1,0 +1,40 @@
+img{
+    width:300px;
+    border:4px dashed #00b300;
+}
+body{
+    background: url("https://i.pinimg.com/originals/ce/20/b3/ce20b3b29dc38051ce94ee4ed9c8220d.jpg");
+    text-align:center;
+    
+}
+.actor{
+    color:#aa80ff;
+}
+.actress{
+    color:grey;
+}
+.drama{
+    color:#3697DD;
+}
+.movievideo{
+    color:blue;
+}
+.couple{
+    color:#B4505D;
+}
+.artist{
+    color:navy;
+}
+
+h2{
+    font-family: 'Arizonia', cursive;
+}
+p{
+    font-family: 'Parisienne', cursive;
+}
+h1{
+   font-family: 'Lobster', cursive;
+}
+a:hover{
+    color:purple;
+}
